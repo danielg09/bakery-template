@@ -1,0 +1,1 @@
+<h1>A bakery template</h1>
